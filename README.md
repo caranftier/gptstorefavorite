@@ -1,5 +1,8 @@
-# gptstorefavorite
-收集有趣好玩的GPT
+# 中文版ChatGPT GPTs自定义机器人列表-全网最全收集（经常更新）
+开源免费的 GPTs Store GPTs  商店列表，更新收录最全的 GPTs，分享最有趣有意思的 GPTs
+
+## GPTs 是什么？
+GPTs  是 OpenAI 推出的无需代码，即可自定义的 ChatGPT 机器人
 
 | 名字 | 描述 | 作者 | 链接 |
 |---|---|---|---|
