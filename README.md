@@ -20,7 +20,7 @@
 | invideo ai | AI 视频创作助手——用任何语言生成配音且吸引人的视频 | invideo.io |[点我打开invideo ai](https://chatgpt.com/g/g-h8l4uLHFQ-invideo-ai)|
 | TurboScribe Transcription -- Transcribe Audio/Video | 转写、摘要并可与音视频内容对话；将文件上传至 turboscribe.ai 后可在此继续交流 | TurboScribe |[点我打开TurboScribe](https://chatgpt.com/g/g-Mc1tBt7gp-turboscribe-transcription-transcribe-audio-video)|
 | Expedia | 让出行计划真正落地——安排交通、住宿，并发现目的地玩法 | expedia.com |[点我打开Expedia](https://chatgpt.com/g/g-rmdbtMF7a-expedia)|
-| 参天AI - 八字命理预测大师 | 以真太阳时为基准的 AI 命理；基于天干地支与阴阳五行，生成个性化八字排盘与性格、事业、财运、婚姻、健康洞见，供自我反思与决策参考 | http://cantian.ai |[点我打开参天AI八字命理预测大师](https://chatgpt.com/g/g-68c54c332d0c81918e9bcedbb50214ca-can-tian-ai-ba-zi-ming-li-yu-ce-da-shi)|
+| 参天AI - 八字命理预测大师 | 基于传统中国玄学理论的AI算命，以真太阳时为基准，由AI分析用户的出生日期、时间、性别和出生地点，生成个性化的八字排盘报告。通过天干地支与阴阳五行的相互作用，提供关于性格特点、事业发展、财富状况、婚姻关系和健康等方面的洞察。本GPT旨在作为自我反思和生活决策的参考，帮助用户更好地理解自身的生命轨迹。 | https://cantian.ai |[点我打开参天AI八字命理预测大师](https://chatgpt.com/g/g-68c54c332d0c81918e9bcedbb50214ca-can-tian-ai-ba-zi-ming-li-yu-ce-da-shi)|
 | Astrology Birth Chart GPT | 专业占星助手，基于你的出生信息解答占星相关问题 | authorityastrology.com |[点我打开Astrology Birth Chart GPT](https://chatgpt.com/g/g-WxckXARTP-astrology-birth-chart-gpt)|
 | 운세박사 타로 - 무료 인공지능 AI 타로 리딩 챗GPT 궁합| 연애운| 사주| 전화 타로 | AI 塔罗占卜大师；提供有趣的免费解读，涵盖合拍度、恋爱运、四柱等 | aifortunedoctor.com |[点我打开운세박사 타로](https://chatgpt.com/g/g-67a56d907fc88191814386dac67ed919-unsebagsa-taro-muryo-ingongjineung-ai-taro-riding-caesgpt-gunghab-yeonaeun-saju-jeonhwa-taro)|
 | Personal Color Analysis | 私人色彩顾问，帮你定位最契合你的色彩季型 | Lana Aljuaid |[点我打开Personal Color Analysis](https://chatgpt.com/g/g-35kDoPvW7-personal-color-analysis)|
